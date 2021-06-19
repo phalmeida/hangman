@@ -1,4 +1,4 @@
-package br.com.philipe.jogoforca.utils;
+package br.com.philipe.hangman.utils;
 
 import java.util.Random;
 

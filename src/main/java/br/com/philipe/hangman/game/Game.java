@@ -1,10 +1,10 @@
-package br.com.philipe.jogoforca.game;
+package br.com.philipe.hangman.game;
 
-import br.com.philipe.jogoforca.core.Config;
-import br.com.philipe.jogoforca.core.Dictionary;
-import br.com.philipe.jogoforca.core.InvalidCharacterException;
-import br.com.philipe.jogoforca.core.Word;
-import br.com.philipe.jogoforca.ui.UI;
+import br.com.philipe.hangman.core.Config;
+import br.com.philipe.hangman.core.Dictionary;
+import br.com.philipe.hangman.core.InvalidCharacterException;
+import br.com.philipe.hangman.core.Word;
+import br.com.philipe.hangman.ui.UI;
 
 import java.util.HashSet;
 import java.util.Set;

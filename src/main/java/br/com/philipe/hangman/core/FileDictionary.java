@@ -1,7 +1,7 @@
-package br.com.philipe.jogoforca.core;
+package br.com.philipe.hangman.core;
 
-import br.com.philipe.jogoforca.game.GameException;
-import br.com.philipe.jogoforca.utils.RandomUtils;
+import br.com.philipe.hangman.game.GameException;
+import br.com.philipe.hangman.utils.RandomUtils;
 
 import java.util.ArrayList;
 import java.util.List;

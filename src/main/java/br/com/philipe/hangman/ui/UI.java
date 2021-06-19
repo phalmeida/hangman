@@ -1,6 +1,6 @@
-package br.com.philipe.jogoforca.ui;
+package br.com.philipe.hangman.ui;
 
-import br.com.philipe.jogoforca.core.InvalidCharacterException;
+import br.com.philipe.hangman.core.InvalidCharacterException;
 
 import java.util.Scanner;
 

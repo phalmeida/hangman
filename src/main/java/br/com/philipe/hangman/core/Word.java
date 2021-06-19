@@ -1,4 +1,4 @@
-package br.com.philipe.jogoforca.core;
+package br.com.philipe.hangman.core;
 
 import java.util.HashSet;
 import java.util.Set;

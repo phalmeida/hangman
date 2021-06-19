@@ -1,6 +1,6 @@
-package br.com.philipe.jogoforca;
+package br.com.philipe.hangman;
 
-import br.com.philipe.jogoforca.game.Game;
+import br.com.philipe.hangman.game.Game;
 
 public class Main {
     public static void main(String[] args) {
